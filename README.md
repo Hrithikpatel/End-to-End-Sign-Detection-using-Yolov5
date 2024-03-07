@@ -1,1 +1,1 @@
-# End-to-End-Waste-Detection-using-Yolov5
+# End-to-End-Sign-Detection-using-Yolov5

@@ -5,6 +5,9 @@ gdown
 flask-cors
 flask
 
+#Data Annotation
+labelImg
+
 # YOLOv5 requirements
 # Usage: pip install -r requirements.txt
 

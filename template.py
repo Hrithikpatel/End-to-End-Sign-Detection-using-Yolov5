@@ -4,7 +4,7 @@ from pathlib import Path
 
 logging.basicConfig(level=logging.INFO,format='[%(asctime)s]: %(message)s:')
 
-project_name = 'src/WasteDetection'
+project_name = 'src/SignDetection'
 
 list_of_files = [
     ".github/workflows/.gitkeep",
